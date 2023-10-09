@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">lab_1.1</string>
-    <string name="press" translatable="false">Нажми</string>
+    <string name="press">Click</string>
 
 </resources>
